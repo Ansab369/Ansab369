@@ -19,7 +19,10 @@
 ## Support Me
 
 If you like my work, consider buying me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ansab)
+
+<a href="https://www.buymeacoffee.com/ansab" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" >
+</a>
 
 <!--
 **Ansab369/Ansab369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
