@@ -25,6 +25,20 @@ If you like my work, consider buying me a coffee!
 </a>
 
 
+## Support & Contact
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/yourname" target="_blank">
+        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="height: 40px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp; <!-- Adds space between buttons -->
+    <a href="mailto:hey@yourname.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-hey@yourname.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Me" style="height: 40px;" />
+    </a>
+</p>
+
+
+
 <!--
 **Ansab369/Ansab369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
